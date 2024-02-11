@@ -13,25 +13,26 @@
 
 
 В Hexlet я выполнил 4 учебных проекта:
-<h4>[1. Игры разума](https://github.com/Maksim75ru/python-project-49)</h4>
+
+[1. Игры разума](https://github.com/Maksim75ru/python-project-49)
 
 ***<p>Цель проекта:***  Реализовать несколько игр, построенных по принципу популярных мобильных приложений для прокачки мозга. Каждая игра задает вопросы, на которые нужно дать правильные ответы. После трех правильных ответов считается, что игра пройдена. Неправильные ответы завершают игру и предлагают пройти ее заново.</p>
 
 ***Технологический стек:*** Python, Poetry, flake8, git.
 
-<h4>[2. Вычислитель отличий](https://github.com/Maksim75ru/python-project-50)</h4>
+[2. Вычислитель отличий](https://github.com/Maksim75ru/python-project-50)
 
 ***<p>Цель проекта:***  Реализовать программу, определяющая разницу между двумя структурами данных. Утилита поддерживает такие входных форматы как yaml, json. Отчет генерируется в виде plain text, stylish и json.
   
 ***Технологический стек:***  Python, Poetry, Pytest, GitHub Actions, flake8, git.
 
-<h4>[3. Анализатор страниц](https://github.com/Maksim75ru/python-project-83)</h4>
+[3. Анализатор страниц](https://github.com/Maksim75ru/python-project-83)
 
 ***<p>Цель проекта:*** Реализовать сайт, который анализирует указанные страницы на SEO-пригодность.
   
 ***Технологический стек:***  Python, Poetry, Flask, PostrgreSQL, GitHub Actions, flake8, git.
 
-<h4>[4. Менеджер задач](https://github.com/Maksim75ru/python-project-52)</h4>
+[4. Менеджер задач](https://github.com/Maksim75ru/python-project-52)
 
 ***<p>Цель проекта:*** Способность создавать с нуля полноценные сайты, используя Python, Django.
   
